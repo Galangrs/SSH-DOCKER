@@ -1,6 +1,3 @@
-Tentu, berikut adalah contoh dokumen Markdown yang bagus dan rapi untuk instruksi instalasi Docker dan pengaturan SSH:
-
-markdown
 # Instruksi Instalasi dan Konfigurasi SSH Docker Server
 
 ## Langkah-langkah Instalasi
