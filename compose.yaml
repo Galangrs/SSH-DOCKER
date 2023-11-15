@@ -1,0 +1,5 @@
+services:
+  ubuntu-01:
+    build: .
+    ports:
+      - "2222:22" # Setting port
